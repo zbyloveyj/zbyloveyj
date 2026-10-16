@@ -1,44 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
-<title id="title">Baoyuan Zhu · 朱宝圆</title>
-<desc id="desc">Academic profile artwork, microbial ecology, brain–gut research and computational biology. Original conceptual design, not research data.</desc>
-<defs>
-  <clipPath id="clip"><rect x="0" y="0" width="1280" height="400" rx="20"/></clipPath>
-  <pattern id="ruling" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#bec9be" stroke-width="0.6" opacity="0.25"/></pattern>
-  <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9eee7" stop-opacity=".15"/><stop offset="1" stop-color="#e9eee7" stop-opacity=".72"/></linearGradient>
-</defs>
-<g clip-path="url(#clip)">
-  <rect width="1280" height="400" fill="#f7f4ed"/>
-  <path d="M0 0H1280V400H0Z" fill="url(#wash)"/>
-  <path d="M18 0V400" stroke="#a96d57" stroke-width="10" opacity=".84"/>
-  <rect x="76" y="69" width="815" height="1" fill="#bec9be" opacity=".85"/>
-  <text x="77" y="52" fill="#a96d57" font-family="Arial,'Helvetica Neue',sans-serif" font-size="16" font-weight="700" letter-spacing="3.4">COMPUTATIONAL BIOLOGY   /   ACADEMIC PORTFOLIO</text>
-  <text x="72" y="171" fill="#253e33" font-family="Georgia,'Times New Roman',serif" font-size="87" font-weight="700" letter-spacing="-1.5">Baoyuan Zhu</text>
-  <text x="78" y="221" fill="#a96d57" font-family="'Noto Serif CJK SC','Songti SC','Microsoft YaHei',serif" font-size="34" font-weight="700" letter-spacing="6">朱宝圆</text>
-  <text x="77" y="269" fill="#64796b" font-family="Arial,'Helvetica Neue',sans-serif" font-size="18" letter-spacing=".5">Microbial ecology  ·  Brain–gut systems  ·  Interpretable AI</text>
-  <rect x="77" y="307" width="815" height="1" fill="#bec9be"/>
-  <text x="78" y="339" fill="#64796b" font-family="Arial,'Helvetica Neue',sans-serif" font-size="15" letter-spacing="2.15">SOUTH CHINA UNIVERSITY OF TECHNOLOGY</text>
-  <text x="78" y="365" fill="#a96d57" font-family="Arial,'Helvetica Neue',sans-serif" font-size="12" font-weight="700" letter-spacing="2.8">RESEARCH  /  CODE  /  WRITING</text>
-  <rect x="925" y="0" width="355" height="400" fill="#e9eee7"/>
-  <rect x="925" y="0" width="355" height="400" fill="url(#ruling)" opacity=".42"/>
-  <text x="952" y="52" fill="#a96d57" font-family="Arial,'Helvetica Neue',sans-serif" font-size="12" letter-spacing="2.4">FIG. 01  /  ECOSYSTEMS</text>
-  <g transform="translate(1104,203)">
-    <circle r="133" fill="none" stroke="#bec9be" stroke-width="1.1" opacity=".67"/>
-    <circle r="100" fill="none" stroke="#bec9be" stroke-width="1" opacity=".78"/>
-    <circle r="68" fill="none" stroke="#bec9be" stroke-width="1" opacity=".82"/>
-    <circle r="36" fill="none" stroke="#bec9be" stroke-width="1" opacity=".9"/>
-    <path d="M-128 24C-85-105-29 119 58 18S140-39 138-60" fill="none" stroke="#a96d57" stroke-width="2.2" stroke-linecap="round" opacity=".86"/>
-    <path d="M-132-13L-102-49L-28-84L75-94L108-25L83 79L-25 98L-98 37Z" fill="none" stroke="#789d8b" stroke-width="1.3" opacity=".78"/>
-    <path d="M-104 67L-19-28L68 35L129-69" fill="none" stroke="#789d8b" stroke-width="1.3" opacity=".66"/>
-    <circle cx="-102" cy="-49" r="6" fill="#a96d57"/><circle cx="-28" cy="-84" r="5" fill="#749887"/>
-    <circle cx="75" cy="-94" r="5.5" fill="#749887"/><circle cx="108" cy="-25" r="6" fill="#a96d57"/>
-    <circle cx="83" cy="79" r="5" fill="#749887"/><circle cx="-25" cy="98" r="6" fill="#749887"/>
-    <circle cx="-98" cy="37" r="5" fill="#a96d57"/><circle cx="-19" cy="-28" r="5.5" fill="#749887"/>
-    <circle cx="68" cy="35" r="5" fill="#af735e"/><circle cx="0" cy="0" r="8" fill="#a96d57"/>
-    <circle cx="0" cy="0" r="3.6" fill="#f7f4ed"/>
-    <circle cx="-104" cy="67" r="5.5" fill="#749887"/><circle cx="129" cy="-69" r="6" fill="#a96d57"/>
-    <path d="M-90-79Q0 16 94 101" fill="none" stroke="#749887" stroke-width="1" stroke-dasharray="4 7" opacity=".73"/>
-  </g>
-  <text x="952" y="363" fill="#64796b" font-family="Arial,'Helvetica Neue',sans-serif" font-size="10.5" letter-spacing="1.7">CONCEPTUAL ART  ·  NOT STUDY DATA</text>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 310" width="1280" height="310" role="img" aria-labelledby="title desc">
+<title id="title">Baoyuan Zhu — 朱宝圆</title>
+<desc id="desc">Academic profile banner: microbial ecology, brain–gut systems and interpretable computational biology. Decorative conceptual artwork, not empirical data.</desc>
+<rect width="1280" height="310" rx="7" fill="#F8F6F0"/>
+<rect x="0" y="0" width="6" height="310" fill="#AC7157"/>
+<path d="M54 55H838" stroke="#D8DED6" stroke-width="1"/>
+<text x="54" y="41" fill="#AC7157" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3.1">BAOYUAN ZHU    /    RESEARCH &amp; OPEN SCIENCE</text>
+<text x="51" y="151" fill="#22342E" font-family="Georgia, 'Times New Roman', serif" font-size="75" font-weight="600" letter-spacing="-1.6">Baoyuan Zhu</text>
+<text x="55" y="207" fill="#AC7157" font-family="'Noto Serif CJK SC','Source Han Serif SC','Songti SC',serif" font-size="32" font-weight="600" letter-spacing="4">朱宝圆</text>
+<path d="M55 229H837" stroke="#D8DED6" stroke-width="1"/>
+<text x="55" y="258" fill="#596C62" font-family="Arial, Helvetica, sans-serif" font-size="16">Microbial ecology  ·  Brain–gut systems  ·  Bioinformatics</text>
+<text x="55" y="283" fill="#618477" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2" font-weight="700">SOUTH CHINA UNIVERSITY OF TECHNOLOGY</text>
+<rect x="867" y="0" width="413" height="310" fill="#ECF0E9"/>
+<path d="M897 55H1248M897 271H1248" stroke="#D8DED6" stroke-width="1"/>
+<text x="897" y="42" fill="#596C62" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.65">PLATE 01    /    MICROBIAL ECOLOGY</text>
+<text x="897" y="289" fill="#596C62" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.3">ILLUSTRATION ONLY · NOT STUDY DATA</text>
+<g transform="translate(1075 165)" fill="none">
+<circle r="92" stroke="#D8DED6" stroke-width=".95"/>
+<circle r="59" stroke="#618477" stroke-width="1" opacity=".64"/>
+<circle r="27" stroke="#618477" stroke-width="1" opacity=".52"/>
+<path d="M-97 35C-44-77 18 84 96-49" stroke="#AC7157" stroke-width="2.1" stroke-linecap="round"/>
+<path d="M-84-25L-44-67L43-56L79 17L7 81L-73 59L-84-25M-44-67L7 81M-84-25L79 17M-73 59L43-56" stroke="#618477" stroke-width=".9" opacity=".78"/>
+<path d="M-97 35L79 17M-73 59L43-56" stroke="#D8DED6" stroke-width=".8" stroke-dasharray="3 7"/>
+<circle cx="-84" cy="-25" r="5.1" fill="#618477" stroke="none"/>
+<circle cx="-44" cy="-67" r="5.5" fill="#AC7157" stroke="none"/>
+<circle cx="43" cy="-56" r="4.1" fill="#618477" stroke="none"/>
+<circle cx="79" cy="17" r="6.6" fill="#AC7157" stroke="none"/>
+<circle cx="7" cy="81" r="4.5" fill="#618477" stroke="none"/>
+<circle cx="-73" cy="59" r="5.3" fill="#618477" stroke="none"/>
+<circle cx="0" cy="0" r="5" fill="#AC7157" stroke="none"/>
 </g>
 </svg>

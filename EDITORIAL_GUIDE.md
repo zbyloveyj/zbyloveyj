@@ -1,16 +1,20 @@
-# Maintaining the academic GitHub profile
+# GitHub Profile · Editorial and maintenance notes
 
-This is the special repository **zbyloveyj/zbyloveyj**. GitHub displays its root `README.md` directly at [github.com/zbyloveyj](https://github.com/zbyloveyj), above the pinned repository cards.
+This is the special public repository `zbyloveyj/zbyloveyj`, whose root `README.md` is shown on https://github.com/zbyloveyj.
 
-## What to edit
+## Content
 
-- `README.md`: bilingual biography, research, publications and personal note.
-- `assets/cover-light.svg`, `assets/cover-dark.svg`: matched artwork for GitHub light/dark appearance.
-- Article links are DOI links, not automatically updated. Verify title, status, and contribution before adding a new publication.
-- Project links describe research code or educational prototypes, not clinically validated software.
+- `README.md`: short, bilingual academic profile with papers, methods, repositories, writing and a modest personal note.
+- `assets/cover-light.svg` and `assets/cover-dark.svg`: desktop/tablet artwork.
+- `assets/cover-mobile-light.svg` and `assets/cover-mobile-dark.svg`: separate phone artwork, matched to color scheme.
+- `PROFILE_SETTINGS_中文.md`: precise account-side settings and recommended pinned repositories.
 
-## Editorial policy
+## Style and evidence
 
-Keep this profile concise and readable on mobile; use the detailed independent website for full publication records. Avoid animated badges, inflated citation metrics and extra personal contact information. The personal note intentionally acknowledges being in a relationship without identifying the partner or sharing private details.
+The banner is original vector artwork. It is **not experimental data**. Colors use warm ivory, pine green, muted copper and GitHub-compatible deep charcoal, with no external fonts, animated effects or tracking pixels.
 
-GitHub does not allow HTML/JS/CSS page takeovers in a profile README. Language is bilingual on-page; the full website has a language switch. Changing your GitHub sidebar name and pinned repositories requires GitHub account controls.
+Publication titles and DOI links are deliberately selected from the owner's journal bibliography; this profile does not claim to be a live or complete paper database. Research-stage software is labeled without clinical-validation claims. The relationship note is intentionally generic and does not identify or expose the partner.
+
+## Native GitHub constraints
+
+GitHub Profile README files cannot customize the sidebar appearance, site-wide background or pinned-repo order via CSS. The account owner must edit profile settings and pinned items in GitHub. The README is bilingual; switching language requires the independent academic website rather than unsupported README JavaScript.
