@@ -7,10 +7,15 @@
   <img src="assets/profile-light.svg" width="100%" alt="Baoyuan Zhu｜朱宝圆 — Microbiome. Brain. Discovery.">
 </picture>
 
-**华南理工大学博士在读 · 智能生物解析**  
-关注微生物生态、脑肠关联与可解释计算；以「一心问道」写作科学历史小说和开放教材。
+### 朱宝圆 · Baoyuan Zhu
 
-<p><a href="https://zbyloveyj.github.io/"><strong>学术主页 ↗</strong></a> &nbsp; · &nbsp; <a href="#books">四本著作</a> &nbsp; · &nbsp; <a href="#research">研究方向</a> &nbsp; · &nbsp; <a href="#publications">代表论文</a> &nbsp; · &nbsp; <a href="#projects">开源项目</a></p>
+**华南理工大学博士在读 · 智能生物解析**
+
+我关注微生物生态与脑功能之间的联系，用宏基因组、多组学与可解释计算研究个体和疾病之间的差异。科研之外，我以 **「一心问道」** 写作科学历史小说和开放教材，试着把复杂的科学讲清楚，也走近科学背后的人。
+
+> 在研究中追问，在写作中理解。
+
+<p><a href="https://zbyloveyj.github.io/about.html"><strong>完整个人介绍 ↗</strong></a> &nbsp; · &nbsp; <a href="https://zbyloveyj.github.io/">学术主页</a> &nbsp; · &nbsp; <a href="#books">四本著作</a> &nbsp; · &nbsp; <a href="#research">研究方向</a> &nbsp; · &nbsp; <a href="#publications">代表论文</a> &nbsp; · &nbsp; <a href="#projects">开源项目</a></p>
 
 <a name="books"></a>
 ## 01 / 著作与写作
