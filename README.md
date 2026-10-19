@@ -25,110 +25,77 @@
   <a href="https://zbyloveyj.github.io/assets/Baoyuan_Zhu_Academic_CV.pdf">CV ↓</a>
 </p>
 
-### Hello, I'm Baoyuan. / 你好，我是朱宝圆。
 
-I am a **PhD candidate at South China University of Technology**. My research connects **microbial ecology, brain science, multi-omics bioinformatics and interpretable AI**, with an emphasis on reproducible, cross-cohort evidence.
+<h2 align="center">Hello, I'm Baoyuan Zhu · 你好，我是朱宝圆</h2>
+<p align="center"><strong>PhD Candidate · South China University of Technology</strong><br/>
+Microbial Ecology · Brain–Gut Axis · Computational Biology · AI for Science</p>
 
-目前在**华南理工大学**攻读博士学位，关注**微生物生态、精神与神经疾病、脑肠关联、脑影像和智能生物解析**。我希望通过跨尺度分析理解生命系统中的复杂联系，也热爱科学史写作与开放教育。
+<p align="center">研究生命系统中看不见的联系：从微生物生态到脑功能，从多组学数据到可解释人工智能。<br/>Exploring reproducible connections between microbial ecosystems, brain function and human health.</p>
 
-<p align="center">
-  <a href="#-books--四本著作">📚 四本著作</a> ·
-  <a href="#-research--研究方向">🔬 研究方向</a> ·
-  <a href="#-selected-publications--代表论文">📄 代表论文</a> ·
-  <a href="#-open-source--开放项目">💻 开源项目</a>
-</p>
+<p align="center"><a href="#books--四本著作">Books</a> · <a href="#research--研究方向">Research</a> · <a href="#selected-publications--代表论文">Publications</a> · <a href="#open-source--开源项目">Projects</a></p>
 
-### 📚 Books / 四本著作
+---
 
-**一心问道 著 · Science history, neuroscience, AI for Biology and research education**
+## Books / 四本著作
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <p align="center"><strong>01 · 看不见的文明</strong></p>
-  <p align="center"><sub>微生物与人类的三百年</sub></p>
-  <p>六卷48章的科学历史小说，从早期显微观察到当代微生物生态，追问人类如何认识看不见的生命。</p>
-  <p><sub>6 volumes · 48 chapters · Science-history novel</sub></p>
-  <p align="center"><a href="https://zbyloveyj.github.io/invisible-civilization/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
-</td>
-<td width="50%" valign="top">
-  <p align="center"><strong>02 · 在我们理解大脑之前</strong></p>
-  <p align="center"><sub>神经科学史长篇小说</sub></p>
-  <p>六部24章，81幅随文插图。沿着神经科学的重要发现，也书写科研道路上的成长、选择与牵挂。</p>
-  <p><sub>6 parts · 24 chapters · 81 illustrations</sub></p>
-  <p align="center"><a href="https://zbyloveyj.github.io/brain-novel/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
-</td>
-<td width="50%" valign="top">
-  <p align="center"><strong>03 · BioAgentLab</strong></p>
-  <p align="center"><sub>面向生物学发现的证据型 AI Agent</sub></p>
-  <p>中文开放教材与示例代码，讨论证据约束的智能体、假设生成、科学评价和可复现生物学研究。</p>
-  <p><sub>Open textbook · AI for Science · Code examples</sub></p>
-  <p align="center"><a href="https://github.com/zbyloveyj/BioAgentLab"><strong>📚 阅读教材 / Explore ↗</strong></a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <p align="center"><strong>04 · 从读研到做研究</strong></p>
-  <p align="center"><sub>研究生学术入门与科研实践手册</sub></p>
-  <p>从报考与导师选择、入学规划到文献阅读、科研设计、数据分析、论文写作与学术成长，面向研究生的开放式入门指南，持续更新。</p>
-  <p><sub>Graduate research handbook · Open learning · In progress</sub></p>
-  <p align="center"><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
-</td>
-<td width="50%" valign="top">
-  <p align="center"><strong>More writing &amp; notes / 其他写作</strong></p>
-  <p align="center"><sub>Academic writing · Open science</sub></p>
-  <p>除四本作品外，还持续整理生物信息学、科研方法与 AI for Science 的学习笔记和开放资源。</p>
-  <p align="center"><a href="https://zbyloveyj.github.io/projects.html"><strong>探索更多 / Explore ↗</strong></a></p>
-</td>
-</tr>
-</table>
+<p>以 <strong>一心问道</strong> 为笔名，持续写作科学历史小说与开放教材。<br/><sub>Science writing, neuroscience narratives and open research education.</sub></p>
 
-<p align="center"><sub>四本作品均为个人文学创作或教学资源，独立于同行评议的学术论文。 / Creative writing and educational work, distinct from peer-reviewed research.</sub></p>
+<table><tr><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/invisible-civilization/"><img src="assets/book-microbes.svg" alt="《看不见的文明》的编辑式封面示意" width="185"/></a><br/><strong>看不见的文明</strong><br/><sub>六卷48章 · 微生物科学历史小说</sub><br/><a href="https://zbyloveyj.github.io/invisible-civilization/"><strong>阅读作品 ↗</strong></a></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/brain-novel/"><img src="assets/book-brain.svg" alt="《在我们理解大脑之前》的编辑式封面示意" width="185"/></a><br/><strong>在我们理解大脑之前</strong><br/><sub>六部24章 · 81幅随文插图</sub><br/><a href="https://zbyloveyj.github.io/brain-novel/"><strong>阅读作品 ↗</strong></a></td></tr><tr><td width="50%" align="center" valign="top"><a href="https://github.com/zbyloveyj/BioAgentLab"><img src="assets/book-agent.svg" alt="《BioAgentLab》的编辑式封面示意" width="185"/></a><br/><strong>BioAgentLab</strong><br/><sub>面向生物学发现的证据型 AI Agent 教材</sub><br/><a href="https://github.com/zbyloveyj/BioAgentLab"><strong>阅读作品 ↗</strong></a></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><img src="assets/book-handbook.svg" alt="《从读研到做研究》的编辑式封面示意" width="185"/></a><br/><strong>从读研到做研究</strong><br/><sub>研究生学术入门与科研实践手册 · 持续更新</sub><br/><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><strong>阅读作品 ↗</strong></a></td></tr></table>
 
-### 🔬 Research / 研究方向
+<sub>封面为本主页制作的统一视觉示意，不替代各书正式出版封面。文学创作与开放教材不等同于同行评议论文。</sub>
 
-| Research area | Focus / 研究重点 |
-| :--- | :--- |
-| **Microbial ecology · 微生物生态** | 大规模宏基因组、连续生态因子、微生物共变结构与人群异质性 |
-| **Brain–gut associations · 脑肠关联** | MDD / SZ / BD、临床认知维度、脑功能与跨模态关联 |
-| **Microbial genetics · 微生物遗传** | 菌株层次变异、水平基因转移、代谢功能与疾病机制 |
-| **AI for Biology · 智能生物解析** | 多组学融合、可解释学习、规范建模、可复现智能体 |
+## Research / 研究方向
 
-### 📄 Selected publications / 代表论文
+| 研究主题 | 关注的问题 |
+| --- | --- |
+| **Microbial ecology / 微生物生态** | 大规模宏基因组、生态因子、微生物群落共变与人群异质性 |
+| **Brain–gut axis / 脑肠关联** | 精神疾病临床异质性、认知表型与功能脑影像 |
+| **Microbial genetics / 微生物遗传** | 微生物遗传变异、水平基因转移和功能重塑 |
+| **AI for Biology / 智能生物解析** | 多模态学习、可解释 AI、规范建模与科研智能体 |
 
-- **2026 · Advanced Science** — [Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome](https://doi.org/10.1002/advs.202517087) · 20,178 metagenomes across 36 countries.
-- **2026 · Research** — [The Brain–Gut Health Initiative (BIGHI): A Prospective Cohort on Psychiatric Disorders in China](https://doi.org/10.34133/research.1142) · Prospective multimodal cohort.
-- **2026 · Journal of Affective Disorders** — [Integrative multi-kingdom gut microbiome analysis uncovers clinical signatures of major depressive disorder](https://doi.org/10.1016/j.jad.2026.121858).
-- **2025 · Translational Psychiatry** — [Multi-kingdom microbial changes and their associations with the clinical characteristics in schizophrenia patients](https://doi.org/10.1038/s41398-025-03449-6).
+## Selected publications / 代表论文
 
-**[More publications, citations and academic CV →](https://zbyloveyj.github.io/publications.html)**
+**2026 · Advanced Science**  
+[Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome](https://doi.org/10.1002/advs.202517087)  
+<sub>20,178 metagenomes across 36 countries · microbial ecological factors</sub>
 
-### 💻 Open source / 开源项目
+**2026 · Research**  
+[The Brain–Gut Health Initiative (BIGHI): A Prospective Cohort on Psychiatric Disorders in China](https://doi.org/10.34133/research.1142)  
+<sub>Prospective multimodal research · microbiome and neural phenotypes</sub>
 
-| Repository | What it explores |
-| :--- | :--- |
-| [**SCUT_Minilab_MEF**](https://github.com/zbyloveyj/SCUT_Minilab_MEF) | 微生物生态因子 / Microbial ecological factors |
-| [**CLEAR-Microbiome**](https://github.com/zbyloveyj/CLEAR-Microbiome) | 共享与特异跨模态表征 / Shared and specific representations |
-| [**Normative Microbial Networks**](https://github.com/zbyloveyj/Normative-Microbial-Network-Modeling-Framework) | 健康参考与生态偏离 / Normative modeling |
-| [**Gut microbiome stability atlas**](https://github.com/zbyloveyj/gut-microbiome-stability-variability-atlas) | 微生态稳定性与变异 / Stability and variability |
-| [**BioAgentLab**](https://github.com/zbyloveyj/BioAgentLab) | 证据型生物学智能体 / Evidence-grounded biological agents |
+**2026 · Journal of Affective Disorders**  
+[Integrative multi-kingdom gut microbiome analysis uncovers clinical signatures of major depressive disorder](https://doi.org/10.1016/j.jad.2026.121858)
 
-<sub>部分开源项目属于研究探索或教育资源，不构成已验证的临床软件。</sub>
+**2025 · Translational Psychiatry**  
+[Multi-kingdom microbial changes and their associations with the clinical characteristics in schizophrenia patients](https://doi.org/10.1038/s41398-025-03449-6)
 
-### ✍️ Beyond the lab / 科研之外
+<p align="right"><a href="https://zbyloveyj.github.io/publications.html"><strong>More publications and DOI links →</strong></a></p>
 
-我以 **一心问道** 为笔名进行科学历史小说创作，也持续整理 [《从读研到做研究》](https://zbyloveyj.github.io/graduate-research-handbook/) 学术入门手册。科研之外，也珍惜与对象相处的日常生活。
+## Open source / 开源项目
 
-I write about science and its history, contribute to open learning, and believe curiosity matters both inside and outside the lab.
+| Project | 研究内容 |
+| --- | --- |
+| [SCUT_Minilab_MEF](https://github.com/zbyloveyj/SCUT_Minilab_MEF) | 微生物生态因子与连续生态建模 |
+| [CLEAR-Microbiome](https://github.com/zbyloveyj/CLEAR-Microbiome) | 跨模态共享与特异表征 |
+| [Normative Microbial Networks](https://github.com/zbyloveyj/Normative-Microbial-Network-Modeling-Framework) | 健康参考网络与微生物生态偏离 |
+| [Gut microbiome stability atlas](https://github.com/zbyloveyj/gut-microbiome-stability-variability-atlas) | 微生物群落稳定性与变异分析 |
+| [BioAgentLab](https://github.com/zbyloveyj/BioAgentLab) | 生物学科研智能体与开放教学 |
+
+<sub>部分仓库为研究阶段或教学示例，不属于经过临床验证的软件。</sub>
+
+## Beyond research / 科研之外
+
+我喜欢科学史写作、开放知识分享，也珍惜科研之外与重要的人相处的日常生活。对我而言，好的科研不仅在于提出问题，还在于把复杂的知识解释清楚。
+
+I enjoy science writing and making research knowledge accessible, while valuing life beyond the lab.
 
 ---
 
 <p align="center">
-<a href="https://zbyloveyj.github.io/"><strong>Academic homepage</strong></a> ·
+<a href="https://zbyloveyj.github.io/"><strong>Academic Website ↗</strong></a> ·
 <a href="https://zbyloveyj.github.io/research.html">Research</a> ·
 <a href="https://zbyloveyj.github.io/publications.html">Publications</a> ·
 <a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> ·
 <a href="mailto:18851970329@163.com">Email</a>
-<br/>
-<sub>Baoyuan Zhu · South China University of Technology · Updated 2026-10-19</sub>
+<br/><sub>Baoyuan Zhu · South China University of Technology · October 2026</sub>
 </p>
