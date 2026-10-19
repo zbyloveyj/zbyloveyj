@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Baoyuan Zhu — Research, code and writing</title><desc id="desc">Microbial ecology, brain science and interpretable computation. South China University of Technology. Decorative editorial header.</desc>
+<rect width="1200" height="330" rx="6" fill="#142627"/>
+<path d="M56 42H1144" stroke="#34514d"/>
+<rect x="56" y="41" width="62" height="3" fill="#cdab78"/>
+<g fill="#aec2bd" font-family="Arial,sans-serif" font-size="13" letter-spacing="2.2"><text x="56" y="76">RESEARCH / CODE / WRITING</text></g>
+<text x="53" y="170" fill="#f3eee1" font-family="Georgia,serif" font-size="78">Baoyuan Zhu<tspan fill="#cdab78">.</tspan></text>
+<text x="56" y="215" fill="#f3eee1" font-family="Arial,sans-serif" font-size="23">Microbiome. Brain. Discovery.</text>
+<text x="56" y="284" fill="#aec2bd" font-family="Arial,sans-serif" font-size="13" letter-spacing="0.8">PHD CANDIDATE · SOUTH CHINA UNIVERSITY OF TECHNOLOGY</text>
+<g transform="translate(850 93)" fill="none" stroke="#34514d" stroke-width="1.2"><path d="M0 0H266M0 52H266M0 104H266M0 156H266M0 0V180M66 0V180M132 0V180M198 0V180M266 0V180"/><path d="M3 125C39 128 43 28 91 31S142 141 193 91 220 20 264 28" stroke="#aec2bd" stroke-width="2"/><path d="M3 78C48 78 67 116 96 119S153 21 196 45 227 140 263 133" stroke="#cdab78" stroke-width="2"/><g fill="#f3eee1" stroke="#142627" stroke-width="4"><circle cx="91" cy="31" r="7"/><circle cx="193" cy="91" r="7"/><circle cx="96" cy="119" r="7"/></g><path d="M0 195H45" stroke="#cdab78" stroke-width="3"/></g><text x="850" y="76" fill="#aec2bd" font-family="Arial,sans-serif" font-size="11" letter-spacing="2">CONNECTIONS ACROSS SCALES</text>
+</svg>

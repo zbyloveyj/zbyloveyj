@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-labelledby="title desc">
+<title id="title">Baoyuan Zhu — Research, code and writing</title><desc id="desc">Microbial ecology, brain science and interpretable computation. South China University of Technology. Decorative editorial header.</desc>
+<rect width="640" height="300" rx="6" fill="#142627"/>
+<path d="M32 42H608" stroke="#34514d"/>
+<rect x="32" y="41" width="62" height="3" fill="#cdab78"/>
+<g fill="#aec2bd" font-family="Arial,sans-serif" font-size="14" letter-spacing="2.2"><text x="32" y="76">RESEARCH / CODE / WRITING</text></g>
+<text x="29" y="151" fill="#f3eee1" font-family="Georgia,serif" font-size="58">Baoyuan Zhu<tspan fill="#cdab78">.</tspan></text>
+<text x="32" y="196" fill="#f3eee1" font-family="Arial,sans-serif" font-size="20">Microbiome. Brain. Discovery.</text>
+<text x="32" y="263" fill="#aec2bd" font-family="Arial,sans-serif" font-size="12" letter-spacing="0.4">PHD CANDIDATE · SOUTH CHINA UNIVERSITY OF TECHNOLOGY</text>
+
+</svg>

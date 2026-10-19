@@ -1,86 +1,90 @@
-<!--
-  Official GitHub Profile README · Baoyuan Zhu / 朱宝圆
-  Editorial layout, bilingual content, light/dark-responsive banner.
-  The abstract artwork is decorative and does not represent empirical data.
--->
+<p align="right"><strong>中文</strong> &nbsp; / &nbsp; <a href="README.en.md">English</a></p>
 
-<p align="center">
-  <picture>
-    <source media="(max-width: 650px) and (prefers-color-scheme: dark)" srcset="assets/cover-mobile-dark.svg" />
-    <source media="(max-width: 650px)" srcset="assets/cover-mobile-light.svg" />
-    <source media="(prefers-color-scheme: dark)" srcset="assets/cover-dark.svg" />
-    <img width="100%" src="assets/cover-light.svg" alt="Baoyuan Zhu · 朱宝圆 — Microbiome ecology, brain–gut research and computational biology" />
-  </picture>
-</p>
+<picture>
+  <source media="(max-width: 640px) and (prefers-color-scheme: dark)" srcset="assets/profile-mobile-dark.svg">
+  <source media="(max-width: 640px)" srcset="assets/profile-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" width="100%" alt="Baoyuan Zhu｜朱宝圆 — Microbiome. Brain. Discovery.">
+</picture>
 
+**华南理工大学博士在读 · 智能生物解析**  
+关注微生物生态、脑肠关联与可解释计算；以「一心问道」写作科学历史小说和开放教材。
 
-<h2 align="center">Baoyuan Zhu <sub>朱宝圆</sub></h2>
-<p align="center"><strong>PhD candidate · South China University of Technology</strong><br/>Microbial ecology · Brain–gut axis · Computational biology · AI for Science</p>
-<p align="center">探索微生物生态与脑功能之间的跨尺度联系，发展可复现、可解释的生物信息学方法。<br/><sub>Researching the microbial world, neural phenotypes and interpretable computational approaches.</sub></p>
-<p align="center"><a href="https://zbyloveyj.github.io/"><strong>Website ↗</strong></a> &nbsp;·&nbsp; <a href="https://zbyloveyj.github.io/publications.html">Publications</a> &nbsp;·&nbsp; <a href="https://zbyloveyj.github.io/projects.html">Projects</a> &nbsp;·&nbsp; <a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> &nbsp;·&nbsp; <a href="https://zbyloveyj.github.io/assets/Baoyuan_Zhu_Academic_CV.pdf">CV ↓</a></p>
+<p><a href="https://zbyloveyj.github.io/"><strong>学术主页 ↗</strong></a> &nbsp; · &nbsp; <a href="#books">四本著作</a> &nbsp; · &nbsp; <a href="#research">研究方向</a> &nbsp; · &nbsp; <a href="#publications">代表论文</a> &nbsp; · &nbsp; <a href="#projects">开源项目</a></p>
 
----
+<a name="books"></a>
+## 01 / 著作与写作
 
-## Research focus / 研究方向
+**一心问道 著。** 两部科学历史小说，一部智能体教材，一本科研实践指南。
 
-| 研究主题 | 关注的问题 |
-| --- | --- |
-| **Microbial ecology / 微生物生态** | 大规模宏基因组、生态因子、微生物群落共变与人群异质性 |
-| **Brain–gut axis / 脑肠关联** | 精神疾病临床异质性、认知表型与功能脑影像 |
-| **Microbial genetics / 微生物遗传** | 微生物遗传变异、水平基因转移和功能重塑 |
-| **AI for Biology / 智能生物解析** | 多模态学习、可解释 AI、规范建模与科研智能体 |
+<table width="100%">
+<tr>
+<td width="112" align="center" valign="middle"><a href="https://zbyloveyj.github.io/invisible-civilization/"><img src="assets/catalog-microbes.svg" width="88" alt="《看不见的文明》书目展示图"></a></td>
+<td valign="middle"><sub>01 · 科学历史小说</sub><br><strong>《看不见的文明》</strong><br><sub>六卷 · 48章</sub><p>从显微镜下的霉菌，到城市、病房与实验室。书写微生物科学史，也书写普通人的生活。</p><a href="https://zbyloveyj.github.io/invisible-civilization/"><strong>在线阅读 →</strong></a> &nbsp; · &nbsp; <a href="https://zbyloveyj.github.io/invisible-civilization/contents.html">全书目录</a></td>
+</tr>
+<tr>
+<td width="112" align="center" valign="middle"><a href="https://zbyloveyj.github.io/brain-novel/"><img src="https://raw.githubusercontent.com/zbyloveyj/brain-novel/main/docs/assets/cover.webp" width="88" alt="《在我们理解大脑之前》正式封面"></a></td>
+<td valign="middle"><sub>02 · 神经科学小说</sub><br><strong>《在我们理解大脑之前》</strong><br><sub>六部 · 24章 · 81幅插图</sub><p>一个博士生走进百年神经科学的现场，在发现、记忆与归途之间，重新理解科研与生活。</p><a href="https://zbyloveyj.github.io/brain-novel/"><strong>在线阅读 →</strong></a> &nbsp; · &nbsp; <a href="https://zbyloveyj.github.io/brain-novel/downloads/brain-novel-complete.pdf">图文 PDF</a></td>
+</tr>
+<tr>
+<td width="112" align="center" valign="middle"><a href="https://github.com/zbyloveyj/BioAgentLab"><img src="assets/catalog-agent.svg" width="88" alt="《BioAgentLab》书目展示图"></a></td>
+<td valign="middle"><sub>03 · 生物学智能体教材</sub><br><strong>《BioAgentLab》</strong><br><sub>开放教材 · 可复现代码</sub><p>从提出问题到检验证据，讨论科研智能体、假设评价与可复现的生物学计算实践。</p><a href="https://github.com/zbyloveyj/BioAgentLab"><strong>教材与代码 →</strong></a></td>
+</tr>
+<tr>
+<td width="112" align="center" valign="middle"><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><img src="assets/catalog-handbook.svg" width="88" alt="《从读研到做研究》书目展示图"></a></td>
+<td valign="middle"><sub>04 · 科研成长指南</sub><br><strong>《从读研到做研究》</strong><br><sub>九编 · 50章 · 完整书稿</sub><p>从读研选择、文献阅读与研究设计，到数据分析、论文写作和职业发展。把科研判断落实到日常实践。</p><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><strong>在线阅读 →</strong></a> &nbsp; · &nbsp; <a href="https://zbyloveyj.github.io/graduate-research-handbook/downloads/complete-book.pdf">全书 PDF</a></td>
+</tr>
+</table>
 
-## Selected research / 代表论文
+<sub>文学与教学作品，独立于同行评议论文。《在我们理解大脑之前》沿用书站正式封面；其他缩略图为主页书目展示设计。</sub>
 
-**2026 · Advanced Science**  
+<a name="research"></a>
+## 02 / 研究方向
+
+**微生物生态** · 大规模宏基因组、连续生态因子与群落异质性。  
+**脑肠关联** · 精神疾病、临床认知维度与功能脑影像。  
+**微生物遗传** · 遗传变异、水平基因转移与功能重塑。  
+**智能生物解析** · 多模态整合、可解释学习与规范建模。
+
+<a name="publications"></a>
+## 03 / 代表论文
+
+**Advanced Science · 2026**  
 [Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome](https://doi.org/10.1002/advs.202517087)  
-<sub>20,178 metagenomes across 36 countries · microbial ecological factors</sub>
+<sub>全球肠道微生物组 · 连续生态结构</sub>
 
-**2026 · Research**  
+**Research · 2026**  
 [The Brain–Gut Health Initiative (BIGHI): A Prospective Cohort on Psychiatric Disorders in China](https://doi.org/10.34133/research.1142)  
-<sub>Prospective multimodal research · microbiome and neural phenotypes</sub>
+<sub>脑肠健康计划 · 多模态前瞻性队列</sub>
 
-**2026 · Journal of Affective Disorders**  
+<details>
+<summary><strong>另外两篇代表论文</strong></summary>
+
+**Journal of Affective Disorders · 2026**  
 [Integrative multi-kingdom gut microbiome analysis uncovers clinical signatures of major depressive disorder](https://doi.org/10.1016/j.jad.2026.121858)
 
-**2025 · Translational Psychiatry**  
+**Translational Psychiatry · 2025**  
 [Multi-kingdom microbial changes and their associations with the clinical characteristics in schizophrenia patients](https://doi.org/10.1038/s41398-025-03449-6)
 
-<p align="right"><a href="https://zbyloveyj.github.io/publications.html"><strong>More publications and DOI links →</strong></a></p>
+</details>
 
-## Open projects / 开源项目
+[完整论文列表与引用信息 →](https://zbyloveyj.github.io/publications.html)
 
-| Project | 研究内容 |
-| --- | --- |
-| [SCUT_Minilab_MEF](https://github.com/zbyloveyj/SCUT_Minilab_MEF) | 微生物生态因子与连续生态建模 |
-| [CLEAR-Microbiome](https://github.com/zbyloveyj/CLEAR-Microbiome) | 跨模态共享与特异表征 |
-| [Normative Microbial Networks](https://github.com/zbyloveyj/Normative-Microbial-Network-Modeling-Framework) | 健康参考网络与微生物生态偏离 |
-| [Gut microbiome stability atlas](https://github.com/zbyloveyj/gut-microbiome-stability-variability-atlas) | 微生物群落稳定性与变异分析 |
-| [BioAgentLab](https://github.com/zbyloveyj/BioAgentLab) | 生物学科研智能体与开放教学 |
+<a name="projects"></a>
+## 04 / 开源项目
 
-<sub>部分仓库为研究阶段或教学示例，不属于经过临床验证的软件。</sub>
+[**MEF**](https://github.com/zbyloveyj/SCUT_Minilab_MEF) · 微生物生态因子与连续生态建模。  
+[**CLEAR-Microbiome**](https://github.com/zbyloveyj/CLEAR-Microbiome) · 跨模态共享与特异表征。  
+[**Normative Microbial Networks**](https://github.com/zbyloveyj/Normative-Microbial-Network-Modeling-Framework) · 健康参考网络与生态偏离。  
+[**Microbiome Stability Atlas**](https://github.com/zbyloveyj/gut-microbiome-stability-variability-atlas) · 群落稳定性与变异。  
+[**BioAgentLab**](https://github.com/zbyloveyj/BioAgentLab) · 科研智能体与开放教学。
 
-## Books & writing / 著作与写作
+<sub>研究与教学代码，不作为经过验证的临床软件。</sub>
 
-<p>以 <strong>一心问道</strong> 为笔名，写作科学历史小说，也整理面向研究者的开放教材与学习手册。</p>
+## 05 / 科研之外
 
-<table><tr><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/invisible-civilization/"><img src="assets/book-microbes.svg" width="160" alt="《看不见的文明》 · 视觉示意封面"/></a><p><strong>《看不见的文明》</strong><br/><sub>微生物与人类的三百年<br/>六卷 · 48章</sub></p><p><a href="https://zbyloveyj.github.io/invisible-civilization/">在线阅读 ↗</a></p></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/brain-novel/"><img src="assets/book-brain.svg" width="160" alt="《在我们理解大脑之前》 · 视觉示意封面"/></a><p><strong>《在我们理解大脑之前》</strong><br/><sub>神经科学历史小说<br/>六部 · 24章 · 81幅插图</sub></p><p><a href="https://zbyloveyj.github.io/brain-novel/">在线阅读 ↗</a></p></td></tr><tr><td width="50%" align="center" valign="top"><a href="https://github.com/zbyloveyj/BioAgentLab"><img src="assets/book-agent.svg" width="160" alt="《BioAgentLab》 · 视觉示意封面"/></a><p><strong>《BioAgentLab》</strong><br/><sub>证据型生物学 AI Agent<br/>开放教材 · 代码示例</sub></p><p><a href="https://github.com/zbyloveyj/BioAgentLab">在线阅读 ↗</a></p></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><img src="assets/book-handbook.svg" width="160" alt="《从读研到做研究》 · 视觉示意封面"/></a><p><strong>《从读研到做研究》</strong><br/><sub>科研成长实践指南<br/>开放手册 · 持续更新</sub></p><p><a href="https://zbyloveyj.github.io/graduate-research-handbook/">在线阅读 ↗</a></p></td></tr></table>
-
-<sub>封面为本页统一设计的展示图；以各书网站的正式封面为准。以上作品为文学创作或教学材料，与同行评议论文分别展示。</sub>
-
-## Beyond the lab / 科研之外
-
-我以“一心问道”为笔名进行科学写作，也喜欢分享科研方法和开放知识。我珍惜科研之外的日常生活，愿意把复杂的科学问题讲得清楚。
-
-I enjoy science writing and making research knowledge accessible, while valuing life beyond the lab.
+喜欢科学史、写作和知识分享，也珍惜与对象一起的日常生活。认真做研究，也认真生活。
 
 ---
 
-<p align="center">
-<a href="https://zbyloveyj.github.io/"><strong>Academic Website ↗</strong></a> ·
-<a href="https://zbyloveyj.github.io/research.html">Research</a> ·
-<a href="https://zbyloveyj.github.io/publications.html">Publications</a> ·
-<a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> ·
-<a href="mailto:18851970329@163.com">Email</a>
-<br/><sub>Baoyuan Zhu · South China University of Technology · October 2026</sub>
-</p>
+<p align="center"><a href="https://zbyloveyj.github.io/"><strong>学术主页</strong></a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> &nbsp; · &nbsp; <a href="mailto:18851970329@163.com">学术联系</a><br><sub>朱宝圆 · 一心问道 &nbsp; / &nbsp; Research, code &amp; writing</sub></p>
