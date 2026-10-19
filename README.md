@@ -27,64 +27,93 @@
 
 ### Hello, I'm Baoyuan. / 你好，我是朱宝圆。
 
-I'm a **PhD candidate at South China University of Technology**, working at the intersection of **microbial ecology, brain–gut research and computational biology**. My work asks how microbial ecosystems vary across people and diseases, how these patterns relate to clinical heterogeneity and neural phenotypes, and which findings remain reproducible across studies.
+I am a **PhD candidate at South China University of Technology**. My research connects **microbial ecology, brain science, multi-omics bioinformatics and interpretable AI**, with an emphasis on reproducible, cross-cohort evidence.
 
-目前在**华南理工大学**攻读博士学位，主要研究**肠道微生物生态、精神疾病临床异质性与脑肠关联**。我关注的不只是某种微生物增加或减少，更关心群落结构、宿主表型和脑功能之间的跨尺度联系，以及这些发现能否在独立数据中得到验证。
+目前在**华南理工大学**攻读博士学位，关注**微生物生态、精神与神经疾病、脑肠关联、脑影像和智能生物解析**。我希望通过跨尺度分析理解生命系统中的复杂联系，也热爱科学史写作与开放教育。
 
-### What I study / 研究方向
+<p align="center">
+  <a href="#-books--三本著作">📚 三本著作</a> ·
+  <a href="#-research--研究方向">🔬 研究方向</a> ·
+  <a href="#-selected-publications--代表论文">📄 代表论文</a> ·
+  <a href="#-open-source--开放项目">💻 开源项目</a>
+</p>
 
-**01 / Microbial ecology · 微生物生态学**  
-Ecological gradients, large-scale metagenomics and healthy-reference modeling. / 大规模宏基因组、连续生态因子与健康参考模型。
+### 📚 Books / 三本著作
 
-**02 / Brain–gut associations · 脑肠关联**  
-Psychiatric heterogeneity, cognition and functional neuroimaging. / 精神疾病异质性、认知维度与脑影像关联。
+**一心问道 著 · Science history, neuroscience and AI for Biology**
 
-**03 / Interpretable computation · 可解释计算**  
-Multi-omics integration, microbial genetics and reproducible AI. / 多组学整合、微生物遗传与可复现人工智能。
+<table>
+<tr>
+<td width="33%" valign="top">
+  <p align="center"><strong>01 · 看不见的文明</strong></p>
+  <p align="center"><sub>微生物与人类的三百年</sub></p>
+  <p>六卷48章的科学历史小说，从早期显微观察到当代微生物生态，追问人类如何认识看不见的生命。</p>
+  <p><sub>6 volumes · 48 chapters · Science-history novel</sub></p>
+  <p align="center"><a href="https://zbyloveyj.github.io/invisible-civilization/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
+</td>
+<td width="33%" valign="top">
+  <p align="center"><strong>02 · 在我们理解大脑之前</strong></p>
+  <p align="center"><sub>神经科学史长篇小说</sub></p>
+  <p>六部24章，81幅随文插图。沿着神经科学的重要发现，也书写科研道路上的成长、选择与牵挂。</p>
+  <p><sub>6 parts · 24 chapters · 81 illustrations</sub></p>
+  <p align="center"><a href="https://zbyloveyj.github.io/brain-novel/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
+</td>
+<td width="34%" valign="top">
+  <p align="center"><strong>03 · BioAgentLab</strong></p>
+  <p align="center"><sub>面向生物学发现的证据型 AI Agent</sub></p>
+  <p>中文开放教材与示例代码，讨论证据约束的智能体、假设生成、科学评价和可复现生物学研究。</p>
+  <p><sub>Open textbook · AI for Science · Code examples</sub></p>
+  <p align="center"><a href="https://github.com/zbyloveyj/BioAgentLab"><strong>📚 阅读教材 / Explore ↗</strong></a></p>
+</td>
+</tr>
+</table>
 
-### Selected publications / 代表性论文
+<p align="center"><sub>三本作品均为个人文学创作或教学资源，独立于同行评议的学术论文。 / Creative writing and educational work, distinct from peer-reviewed research.</sub></p>
 
-**2026 · *Advanced Science***  
-[**Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome**](https://doi.org/10.1002/advs.202517087)  
-<sub>20,178 metagenomes · 36 countries · microbial ecological factors</sub>
+### 🔬 Research / 研究方向
 
-**2026 · *Research***  
-[**The Brain–Gut Health Initiative (BIGHI): A Prospective Cohort on Psychiatric Disorders in China**](https://doi.org/10.34133/research.1142)  
-<sub>Multimodal prospective cohort · microbiome, clinical phenotypes and neuroimaging</sub>
+| Research area | Focus / 研究重点 |
+| :--- | :--- |
+| **Microbial ecology · 微生物生态** | 大规模宏基因组、连续生态因子、微生物共变结构与人群异质性 |
+| **Brain–gut associations · 脑肠关联** | MDD / SZ / BD、临床认知维度、脑功能与跨模态关联 |
+| **Microbial genetics · 微生物遗传** | 菌株层次变异、水平基因转移、代谢功能与疾病机制 |
+| **AI for Biology · 智能生物解析** | 多组学融合、可解释学习、规范建模、可复现智能体 |
 
-**2026 · *Journal of Affective Disorders***  
-[**Integrative multi-kingdom gut microbiome analysis uncovers clinical signatures of major depressive disorder**](https://doi.org/10.1016/j.jad.2026.121858)  
-<sub>Multi-kingdom metagenomics · major depressive disorder</sub>
+### 📄 Selected publications / 代表论文
 
-**2025 · *Translational Psychiatry***  
-[**Multi-kingdom microbial changes and their associations with the clinical characteristics in schizophrenia patients**](https://doi.org/10.1038/s41398-025-03449-6)  
-<sub>Microbial kingdoms · schizophrenia and clinical variation</sub>
+- **2026 · Advanced Science** — [Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome](https://doi.org/10.1002/advs.202517087) · 20,178 metagenomes across 36 countries.
+- **2026 · Research** — [The Brain–Gut Health Initiative (BIGHI): A Prospective Cohort on Psychiatric Disorders in China](https://doi.org/10.34133/research.1142) · Prospective multimodal cohort.
+- **2026 · Journal of Affective Disorders** — [Integrative multi-kingdom gut microbiome analysis uncovers clinical signatures of major depressive disorder](https://doi.org/10.1016/j.jad.2026.121858).
+- **2025 · Translational Psychiatry** — [Multi-kingdom microbial changes and their associations with the clinical characteristics in schizophrenia patients](https://doi.org/10.1038/s41398-025-03449-6).
 
-<p align="right"><a href="https://zbyloveyj.github.io/publications.html"><strong>All selected papers, DOIs & citations →</strong></a></p>
+**[More publications, citations and academic CV →](https://zbyloveyj.github.io/publications.html)**
 
-### Open-source work / 科研代码与开放资源
+### 💻 Open source / 开源项目
 
-- [**Microbial Ecological Factors**](https://github.com/zbyloveyj/SCUT_Minilab_MEF) — continuous ecosystem modeling · 连续生态因子
-- [**CLEAR-Microbiome**](https://github.com/zbyloveyj/CLEAR-Microbiome) — contrastive microbial–clinical representations · 对比表征
-- [**Normative Microbial Networks**](https://github.com/zbyloveyj/Normative-Microbial-Network-Modeling-Framework) — healthy-reference ecosystem deviations · 规范建模
-- [**BioAgentLab**](https://github.com/zbyloveyj/BioAgentLab) — evidence-aware AI agents & research education · 科研智能体
+| Repository | What it explores |
+| :--- | :--- |
+| [**SCUT_Minilab_MEF**](https://github.com/zbyloveyj/SCUT_Minilab_MEF) | 微生物生态因子 / Microbial ecological factors |
+| [**CLEAR-Microbiome**](https://github.com/zbyloveyj/CLEAR-Microbiome) | 共享与特异跨模态表征 / Shared and specific representations |
+| [**Normative Microbial Networks**](https://github.com/zbyloveyj/Normative-Microbial-Network-Modeling-Framework) | 健康参考与生态偏离 / Normative modeling |
+| [**Gut microbiome stability atlas**](https://github.com/zbyloveyj/gut-microbiome-stability-variability-atlas) | 微生态稳定性与变异 / Stability and variability |
+| [**BioAgentLab**](https://github.com/zbyloveyj/BioAgentLab) | 证据型生物学智能体 / Evidence-grounded biological agents |
 
-<sub>Some repositories are research-stage or educational resources, not validated clinical software. / 部分项目仍属研究性或教学性代码。</sub>
+<sub>部分开源项目属于研究探索或教育资源，不构成已验证的临床软件。</sub>
 
-### A little beyond research / 科研之外
+### ✍️ Beyond the lab / 科研之外
 
-I enjoy **science writing and open learning**. I write [*The Invisible Civilization*](https://zbyloveyj.github.io/invisible-civilization/), a science-history novel, and contribute to [*From Graduate Study to Research*](https://zbyloveyj.github.io/graduate-research-handbook/), an evolving field guide. I'm also **happily in a relationship** and value everyday life beyond the lab.
+我以 **一心问道** 为笔名进行科学历史小说创作，也持续整理 [《从读研到做研究》](https://zbyloveyj.github.io/graduate-research-handbook/) 学术入门手册。科研之外，也珍惜与对象相处的日常生活。
 
-科研之外，我喜欢**科学写作与知识分享**，也很珍惜**和对象一起的日常生活**。对我而言，科研是一种认真探索世界的方式，但生活不止于论文。
+I write about science and its history, contribute to open learning, and believe curiosity matters both inside and outside the lab.
 
 ---
 
 <p align="center">
-  <a href="mailto:18851970329@163.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://orcid.org/0009-0006-6213-214X">ORCID</a>
-  &nbsp;·&nbsp;
-  <a href="https://zbyloveyj.github.io/">Website ↗</a>
-  <br />
-  <sub>Baoyuan Zhu · South China University of Technology · Updated October 2026</sub>
+<a href="https://zbyloveyj.github.io/"><strong>Academic homepage</strong></a> ·
+<a href="https://zbyloveyj.github.io/research.html">Research</a> ·
+<a href="https://zbyloveyj.github.io/publications.html">Publications</a> ·
+<a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> ·
+<a href="mailto:18851970329@163.com">Email</a>
+<br/>
+<sub>Baoyuan Zhu · South China University of Technology · Updated 2026-10-19</sub>
 </p>
