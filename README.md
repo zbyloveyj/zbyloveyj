@@ -32,33 +32,33 @@ I am a **PhD candidate at South China University of Technology**. My research co
 目前在**华南理工大学**攻读博士学位，关注**微生物生态、精神与神经疾病、脑肠关联、脑影像和智能生物解析**。我希望通过跨尺度分析理解生命系统中的复杂联系，也热爱科学史写作与开放教育。
 
 <p align="center">
-  <a href="#-books--三本著作">📚 三本著作</a> ·
+  <a href="#-books--四本著作">📚 四本著作</a> ·
   <a href="#-research--研究方向">🔬 研究方向</a> ·
   <a href="#-selected-publications--代表论文">📄 代表论文</a> ·
   <a href="#-open-source--开放项目">💻 开源项目</a>
 </p>
 
-### 📚 Books / 三本著作
+### 📚 Books / 四本著作
 
-**一心问道 著 · Science history, neuroscience and AI for Biology**
+**一心问道 著 · Science history, neuroscience, AI for Biology and research education**
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
   <p align="center"><strong>01 · 看不见的文明</strong></p>
   <p align="center"><sub>微生物与人类的三百年</sub></p>
   <p>六卷48章的科学历史小说，从早期显微观察到当代微生物生态，追问人类如何认识看不见的生命。</p>
   <p><sub>6 volumes · 48 chapters · Science-history novel</sub></p>
   <p align="center"><a href="https://zbyloveyj.github.io/invisible-civilization/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
   <p align="center"><strong>02 · 在我们理解大脑之前</strong></p>
   <p align="center"><sub>神经科学史长篇小说</sub></p>
   <p>六部24章，81幅随文插图。沿着神经科学的重要发现，也书写科研道路上的成长、选择与牵挂。</p>
   <p><sub>6 parts · 24 chapters · 81 illustrations</sub></p>
   <p align="center"><a href="https://zbyloveyj.github.io/brain-novel/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
 </td>
-<td width="34%" valign="top">
+<td width="50%" valign="top">
   <p align="center"><strong>03 · BioAgentLab</strong></p>
   <p align="center"><sub>面向生物学发现的证据型 AI Agent</sub></p>
   <p>中文开放教材与示例代码，讨论证据约束的智能体、假设生成、科学评价和可复现生物学研究。</p>
@@ -66,9 +66,24 @@ I am a **PhD candidate at South China University of Technology**. My research co
   <p align="center"><a href="https://github.com/zbyloveyj/BioAgentLab"><strong>📚 阅读教材 / Explore ↗</strong></a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <p align="center"><strong>04 · 从读研到做研究</strong></p>
+  <p align="center"><sub>研究生学术入门与科研实践手册</sub></p>
+  <p>从报考与导师选择、入学规划到文献阅读、科研设计、数据分析、论文写作与学术成长，面向研究生的开放式入门指南，持续更新。</p>
+  <p><sub>Graduate research handbook · Open learning · In progress</sub></p>
+  <p align="center"><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><strong>📖 在线阅读 / Read ↗</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <p align="center"><strong>More writing &amp; notes / 其他写作</strong></p>
+  <p align="center"><sub>Academic writing · Open science</sub></p>
+  <p>除四本作品外，还持续整理生物信息学、科研方法与 AI for Science 的学习笔记和开放资源。</p>
+  <p align="center"><a href="https://zbyloveyj.github.io/projects.html"><strong>探索更多 / Explore ↗</strong></a></p>
+</td>
+</tr>
 </table>
 
-<p align="center"><sub>三本作品均为个人文学创作或教学资源，独立于同行评议的学术论文。 / Creative writing and educational work, distinct from peer-reviewed research.</sub></p>
+<p align="center"><sub>四本作品均为个人文学创作或教学资源，独立于同行评议的学术论文。 / Creative writing and educational work, distinct from peer-reviewed research.</sub></p>
 
 ### 🔬 Research / 研究方向
 
