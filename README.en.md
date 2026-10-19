@@ -7,10 +7,15 @@
   <img src="assets/profile-light.svg" width="100%" alt="Baoyuan Zhu｜朱宝圆 — Microbiome. Brain. Discovery.">
 </picture>
 
-**PhD candidate · South China University of Technology**  
-I work on microbial ecology, brain–gut associations and interpretable computation. I also write science-history novels and open educational books under the pen name **一心问道**.
+### Baoyuan Zhu · 朱宝圆
 
-<p><a href="https://zbyloveyj.github.io/"><strong>Academic website ↗</strong></a> &nbsp; · &nbsp; <a href="#books">Books</a> &nbsp; · &nbsp; <a href="#research">Research</a> &nbsp; · &nbsp; <a href="#publications">Publications</a> &nbsp; · &nbsp; <a href="#projects">Projects</a></p>
+**PhD candidate · South China University of Technology**
+
+I study the connections between microbial ecosystems and brain function through metagenomics, multi-omics and interpretable computation. Beyond research, I write science-history novels and educational books as **一心问道**, exploring both scientific ideas and the people behind them.
+
+> Questions in research. Perspective in writing.
+
+<p><a href="https://zbyloveyj.github.io/about.html"><strong>Personal introduction ↗</strong></a> &nbsp; · &nbsp; <a href="https://zbyloveyj.github.io/">Academic website</a> &nbsp; · &nbsp; <a href="#books">Books</a> &nbsp; · &nbsp; <a href="#research">Research</a> &nbsp; · &nbsp; <a href="#publications">Publications</a> &nbsp; · &nbsp; <a href="#projects">Projects</a></p>
 
 <a name="books"></a>
 ## 01 / Books & writing
