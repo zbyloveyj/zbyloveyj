@@ -13,38 +13,15 @@
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://zbyloveyj.github.io/"><strong>Academic website</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://zbyloveyj.github.io/research.html">Research</a>
-  &nbsp;·&nbsp;
-  <a href="https://zbyloveyj.github.io/publications.html">Publications</a>
-  &nbsp;·&nbsp;
-  <a href="https://zbyloveyj.github.io/projects.html">Open science</a>
-  &nbsp;·&nbsp;
-  <a href="https://zbyloveyj.github.io/assets/Baoyuan_Zhu_Academic_CV.pdf">CV ↓</a>
-</p>
 
-
-<h2 align="center">Hello, I'm Baoyuan Zhu · 你好，我是朱宝圆</h2>
-<p align="center"><strong>PhD Candidate · South China University of Technology</strong><br/>
-Microbial Ecology · Brain–Gut Axis · Computational Biology · AI for Science</p>
-
-<p align="center">研究生命系统中看不见的联系：从微生物生态到脑功能，从多组学数据到可解释人工智能。<br/>Exploring reproducible connections between microbial ecosystems, brain function and human health.</p>
-
-<p align="center"><a href="#books--四本著作">Books</a> · <a href="#research--研究方向">Research</a> · <a href="#selected-publications--代表论文">Publications</a> · <a href="#open-source--开源项目">Projects</a></p>
+<h2 align="center">Baoyuan Zhu <sub>朱宝圆</sub></h2>
+<p align="center"><strong>PhD candidate · South China University of Technology</strong><br/>Microbial ecology · Brain–gut axis · Computational biology · AI for Science</p>
+<p align="center">探索微生物生态与脑功能之间的跨尺度联系，发展可复现、可解释的生物信息学方法。<br/><sub>Researching the microbial world, neural phenotypes and interpretable computational approaches.</sub></p>
+<p align="center"><a href="https://zbyloveyj.github.io/"><strong>Website ↗</strong></a> &nbsp;·&nbsp; <a href="https://zbyloveyj.github.io/publications.html">Publications</a> &nbsp;·&nbsp; <a href="https://zbyloveyj.github.io/projects.html">Projects</a> &nbsp;·&nbsp; <a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> &nbsp;·&nbsp; <a href="https://zbyloveyj.github.io/assets/Baoyuan_Zhu_Academic_CV.pdf">CV ↓</a></p>
 
 ---
 
-## Books / 四本著作
-
-<p>以 <strong>一心问道</strong> 为笔名，持续写作科学历史小说与开放教材。<br/><sub>Science writing, neuroscience narratives and open research education.</sub></p>
-
-<table><tr><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/invisible-civilization/"><img src="assets/book-microbes.svg" alt="《看不见的文明》的编辑式封面示意" width="185"/></a><br/><strong>看不见的文明</strong><br/><sub>六卷48章 · 微生物科学历史小说</sub><br/><a href="https://zbyloveyj.github.io/invisible-civilization/"><strong>阅读作品 ↗</strong></a></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/brain-novel/"><img src="assets/book-brain.svg" alt="《在我们理解大脑之前》的编辑式封面示意" width="185"/></a><br/><strong>在我们理解大脑之前</strong><br/><sub>六部24章 · 81幅随文插图</sub><br/><a href="https://zbyloveyj.github.io/brain-novel/"><strong>阅读作品 ↗</strong></a></td></tr><tr><td width="50%" align="center" valign="top"><a href="https://github.com/zbyloveyj/BioAgentLab"><img src="assets/book-agent.svg" alt="《BioAgentLab》的编辑式封面示意" width="185"/></a><br/><strong>BioAgentLab</strong><br/><sub>面向生物学发现的证据型 AI Agent 教材</sub><br/><a href="https://github.com/zbyloveyj/BioAgentLab"><strong>阅读作品 ↗</strong></a></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><img src="assets/book-handbook.svg" alt="《从读研到做研究》的编辑式封面示意" width="185"/></a><br/><strong>从读研到做研究</strong><br/><sub>研究生学术入门与科研实践手册 · 持续更新</sub><br/><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><strong>阅读作品 ↗</strong></a></td></tr></table>
-
-<sub>封面为本主页制作的统一视觉示意，不替代各书正式出版封面。文学创作与开放教材不等同于同行评议论文。</sub>
-
-## Research / 研究方向
+## Research focus / 研究方向
 
 | 研究主题 | 关注的问题 |
 | --- | --- |
@@ -53,7 +30,7 @@ Microbial Ecology · Brain–Gut Axis · Computational Biology · AI for Science
 | **Microbial genetics / 微生物遗传** | 微生物遗传变异、水平基因转移和功能重塑 |
 | **AI for Biology / 智能生物解析** | 多模态学习、可解释 AI、规范建模与科研智能体 |
 
-## Selected publications / 代表论文
+## Selected research / 代表论文
 
 **2026 · Advanced Science**  
 [Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome](https://doi.org/10.1002/advs.202517087)  
@@ -71,7 +48,7 @@ Microbial Ecology · Brain–Gut Axis · Computational Biology · AI for Science
 
 <p align="right"><a href="https://zbyloveyj.github.io/publications.html"><strong>More publications and DOI links →</strong></a></p>
 
-## Open source / 开源项目
+## Open projects / 开源项目
 
 | Project | 研究内容 |
 | --- | --- |
@@ -83,9 +60,17 @@ Microbial Ecology · Brain–Gut Axis · Computational Biology · AI for Science
 
 <sub>部分仓库为研究阶段或教学示例，不属于经过临床验证的软件。</sub>
 
-## Beyond research / 科研之外
+## Books & writing / 著作与写作
 
-我喜欢科学史写作、开放知识分享，也珍惜科研之外与重要的人相处的日常生活。对我而言，好的科研不仅在于提出问题，还在于把复杂的知识解释清楚。
+<p>以 <strong>一心问道</strong> 为笔名，写作科学历史小说，也整理面向研究者的开放教材与学习手册。</p>
+
+<table><tr><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/invisible-civilization/"><img src="assets/book-microbes.svg" width="160" alt="《看不见的文明》 · 视觉示意封面"/></a><p><strong>《看不见的文明》</strong><br/><sub>微生物与人类的三百年<br/>六卷 · 48章</sub></p><p><a href="https://zbyloveyj.github.io/invisible-civilization/">在线阅读 ↗</a></p></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/brain-novel/"><img src="assets/book-brain.svg" width="160" alt="《在我们理解大脑之前》 · 视觉示意封面"/></a><p><strong>《在我们理解大脑之前》</strong><br/><sub>神经科学历史小说<br/>六部 · 24章 · 81幅插图</sub></p><p><a href="https://zbyloveyj.github.io/brain-novel/">在线阅读 ↗</a></p></td></tr><tr><td width="50%" align="center" valign="top"><a href="https://github.com/zbyloveyj/BioAgentLab"><img src="assets/book-agent.svg" width="160" alt="《BioAgentLab》 · 视觉示意封面"/></a><p><strong>《BioAgentLab》</strong><br/><sub>证据型生物学 AI Agent<br/>开放教材 · 代码示例</sub></p><p><a href="https://github.com/zbyloveyj/BioAgentLab">在线阅读 ↗</a></p></td><td width="50%" align="center" valign="top"><a href="https://zbyloveyj.github.io/graduate-research-handbook/"><img src="assets/book-handbook.svg" width="160" alt="《从读研到做研究》 · 视觉示意封面"/></a><p><strong>《从读研到做研究》</strong><br/><sub>科研成长实践指南<br/>开放手册 · 持续更新</sub></p><p><a href="https://zbyloveyj.github.io/graduate-research-handbook/">在线阅读 ↗</a></p></td></tr></table>
+
+<sub>封面为本页统一设计的展示图；以各书网站的正式封面为准。以上作品为文学创作或教学材料，与同行评议论文分别展示。</sub>
+
+## Beyond the lab / 科研之外
+
+我以“一心问道”为笔名进行科学写作，也喜欢分享科研方法和开放知识。我珍惜科研之外的日常生活，愿意把复杂的科学问题讲得清楚。
 
 I enjoy science writing and making research knowledge accessible, while valuing life beyond the lab.
 
