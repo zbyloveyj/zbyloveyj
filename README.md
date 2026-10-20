@@ -90,6 +90,8 @@
 
 喜欢科学史、写作和知识分享，也珍惜与对象一起的日常生活。认真做研究，也认真生活。
 
+**个人成长实验室 · Personal Growth Lab**：独立的个人能力训练栏目，第一期开放 [21天口才与表达训练课程](https://zbyloveyj.github.io/personal-growth-lab/)，可自主学习、录音、评分和打卡。
+
 ---
 
 <p align="center"><a href="https://zbyloveyj.github.io/"><strong>学术主页</strong></a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> &nbsp; · &nbsp; <a href="mailto:18851970329@163.com">学术联系</a><br><sub>朱宝圆 · 一心问道 &nbsp; / &nbsp; Research, code &amp; writing</sub></p>

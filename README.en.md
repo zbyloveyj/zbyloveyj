@@ -78,6 +78,8 @@ Two science-history novels, an AI-agent textbook and a practical research handbo
 
 I enjoy science history, writing and sharing knowledge. I am happily in a relationship and value our everyday life together, beyond the lab.
 
+**Personal Growth Lab** is my independent personal-skills learning project. Its first track, [21-day Speaking & Communication Practice](https://zbyloveyj.github.io/personal-growth-lab/), includes self-paced lessons, recordings, scoring and progress logs.
+
 ---
 
 <p align="center"><a href="https://zbyloveyj.github.io/"><strong>Academic website</strong></a> &nbsp; · &nbsp; <a href="https://orcid.org/0009-0006-6213-214X">ORCID</a> &nbsp; · &nbsp; <a href="mailto:18851970329@163.com">Contact</a><br><sub>Baoyuan Zhu · 一心问道 &nbsp; / &nbsp; Research, code &amp; writing</sub></p>
