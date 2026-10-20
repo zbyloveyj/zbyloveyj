@@ -54,10 +54,6 @@
 <a name="publications"></a>
 ## 03 / 代表论文
 
-**Biological Psychiatry · 2026 · 提前在线发表**  
-[Connection-Level Multi-Omics Reveals Cerebellar-Cortical Dysconnectivity and Divergent Molecular Signatures Across Major Psychiatric Disorders](https://doi.org/10.1016/j.biopsych.2026.09.020)  
-<sub>BrainNetAnno · 脑网络连接水平多组学注释 · 2026年10月3日在线发表 · 合作作者（作者序列第三位）</sub>
-
 **Advanced Science · 2026**  
 [Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome](https://doi.org/10.1002/advs.202517087)  
 <sub>全球肠道微生物组 · 连续生态结构</sub>
@@ -77,7 +73,7 @@
 
 </details>
 
-[精选论文与引用信息 →](https://zbyloveyj.github.io/publications.html)
+[完整论文列表与引用信息 →](https://zbyloveyj.github.io/publications.html)
 
 <a name="projects"></a>
 ## 04 / 开源项目
