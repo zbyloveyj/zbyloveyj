@@ -42,6 +42,10 @@ Two science-history novels, an AI-agent textbook and a practical research handbo
 <a name="publications"></a>
 ## 03 / Selected publications
 
+**Biological Psychiatry · 2026 · Ahead of print (Journal Pre-proof)**  
+[Connection-Level Multi-Omics Reveals Cerebellar-Cortical Dysconnectivity and Divergent Molecular Signatures Across Major Psychiatric Disorders](https://doi.org/10.1016/j.biopsych.2026.09.020)  
+<sub>BrainNetAnno · Connection-level multi-omics annotation · Published online 3 October 2026 · Co-author (third-listed author)</sub>
+
 **Advanced Science · 2026**  
 [Dissecting the Ecological Structure of Health and Disease in the Global Gut Microbiome](https://doi.org/10.1002/advs.202517087)  
 <sub>Global gut microbiome · Continuous ecological structure</sub>
@@ -61,7 +65,7 @@ Two science-history novels, an AI-agent textbook and a practical research handbo
 
 </details>
 
-[Full publication list and citations →](https://zbyloveyj.github.io/publications.html)
+[Selected publications and citations →](https://zbyloveyj.github.io/publications.html)
 
 <a name="projects"></a>
 ## 04 / Open projects
